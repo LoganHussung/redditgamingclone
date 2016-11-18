@@ -1,0 +1,82 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+group img {
+  width: 200px;
+}
+
+/** {
+  border: 1px solid red;
+}*/
+
+.title {
+  font-size: 30px;
+}
+.headerdes {
+  text-align: center;
+}
+
+.headerdes:hover {
+  color: red;
+  text-align: center;
+  transform: rotate(180deg);
+}
+
+.headpic img {
+  border-bottom: 2px solid red;
+  display: block;
+  margin-bottom: 20px;
+  max-height: 300px;
+  width: 100%;
+}
+.headpic h1 {
+  background-color: #FEF;
+  font-family: 'Coming Soon', cursive;
+  font-size: 10rem;
+  text-align: Center;
+}
+.navigation {
+  padding-left: 20px;
+}
+.navitems {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+}
+input {
+  padding-right: 30px;
+}
+
+.gaming h4 {
+  display: block;
+  font-size: 50px;
+}
+h2 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+.gaming a {
+  display: block;
+}
+
+.gaming img {
+  align-items: center;
+  border-radius: 5px;
+  display: block;
+  height: 200px;
+  width: 100%;
+}
+.subgroup {
+  height: 500px;
+}
+.subgroup a {
+  color: red;
+  font-size: 2rem;
+}
+.subgroup hr {
+  border-top: 1px solid red;
+}
